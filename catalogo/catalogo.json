@@ -1,0 +1,20 @@
+[
+    {
+        "codigo": 1,
+        "titulo": "Homem Aranha1",
+        "atores": "Vagner, Junior, Haylander",
+        "anoDeLancamento": 2001,
+        "duracaoMin": 120,
+        "emCartaz": false
+        
+    },
+    {
+        "codigo": 2,
+        "titulo": "Homem Aranha2",
+        "atores": "Vagner, Junior, Haylander",
+        "anoDeLancamento": 2003,
+        "duracaoMin": 125,
+        "emCartaz": true
+        
+    }
+]
