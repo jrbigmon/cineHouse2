@@ -5,6 +5,6 @@ function alterarStatus(lista, codigo){
     console.table(sit)
     console.log('-'.repeat(30))
     sit.emCartaz ? sit.emCartaz = false : sit.emCartaz = true
-    console.log(sit)
+    console.table(sit)
 }
 module.exports = alterarStatus;
